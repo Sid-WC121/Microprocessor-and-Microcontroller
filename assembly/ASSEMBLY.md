@@ -1,3 +1,10 @@
+<p align="right">
+<kbd>
+<a href="https://github.com/Sid-WC121/Microprocessor-and-Microcontroller" >Main</a><br>
+</kbd>
+<kbd>
+<a href="https://github.com/Sid-WC121/Microprocessor-and-Microcontroller" >next ()</a>
+</kbd>
 <br>
 <h1 align="center"> 8085 ASSEMBLY </h1>
 <h2> :sparkle: <em>Assembly Language</em> </h2>
