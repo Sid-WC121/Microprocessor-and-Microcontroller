@@ -38,11 +38,11 @@
 ***
 <h3>:sparkle:BRANCHING INSTRUCTIONS</h3>
 
-|             |           |
+|`JMP` <br >`JC` <br> `JNC` <br> `JP` <br> `JM` <br> `JZ` <br> `JNZ` <br> `JPE` <br> `JPO` <br> `CALL` <br> `CC` <br> `CNC` <br> `CP` <br> `CM` <br >`CZ` <br> `CNZ` <br> `CPE` <br> `CPO` <br> `RET` <br> `RC` <br> `RNC` <br> `RP` <br> `RM` <br> `RZ` <br> `RNZ` <br> `RPE`<br> `RPO` <br> `PCHIL` <br> `RST`|`Jump unconditionally` <br >`Jump on carry` <br> `Jump on no carry` <br> `Jump on positive` <br> `Jump on minus` <br> `Jump on zero` <br> `Jump on no zero` <br> `Jump on parity even` <br> `Jump on parity odd` <br> `Call unconditionally` <br> `Call on carry` <br> `Call on no carry` <br> `Call on positive` <br> `Call on minus` <br > `Call on zero` <br> `Call on no zero` <br> `Call on parity even` <br> `Call on parity odd` <br> `Return unconditionally` <br> `Return on carry` <br> `Return on no carry` <br> `Return on positive` <br> `Return on minus` <br> `Return on zero` <br> `Return on no zero` <br> `Return on parity even`<br> `Return on parity odd` <br> `Load program counter with HL contents` <br> `Restart`|
 | :---        |    :---   |
 
 ***
 <h3>:sparkle:LOGICAL INSTRUCTIONS</h3>
 
-|             |           |
+|`CMP` <br >`CPI` <br> `ANA` <br> `ANI` <br> `XRA` <br> `XRI` <br> `ORA` <br> `ORI` <br> `RLC` <br> `RRC` <br> `RAL` <br> `RAR` <br> `CMA` <br> `CMC` <br> `STC`|`Compare register or memory with accumulator` <br> `Compare immediate with accumulator` <br> `Logical AND register or memory with accumulator` <br> `Logical AND immediate with accumulator` <br> `Exclusive OR register or memory with accumulator` <br> `Exclusive OR immediate with accumulator` <br> `Logical OR register or memory with accumulator` <br> `Logical OR immediate with accumulator` <br> `Rotate accumulator left` <br> `Rotate accumulator right` <br> `Rotate accumulator left through carry` <br> `Rotate accumulator right through carry` <br> `Complement accumulator` <br> `Complement carry` <br> `Set carry`|
 | :---        |    :---   |
