@@ -26,13 +26,13 @@
 
 <h3>:sparkle:ARITHMETIC INSTRUCTIONS</h3>
 
-|             |           |
+| `ADD` <br >`ADC` <br> `ADI` <br> `ACI` <br> `DAD` <br> `SUB` <br> `SBB` <br> `SUI` <br> `SBI` <br> `INR` <br> `INX` <br> `DCR` <br> `DCX` <br> `DAA`| `Add register or memory to accumulator` <br >`Add register to accumulator with carry` <br> `Add immediate to accumulator` <br> `Add immediate to accumulator with carry` <br> `Add register pair to H and L registers` <br> `Subtract register or memory from accumulator` <br> `Subtract source and borrow from accumulator` <br> `Subtract immediate from accumulator` <br> `Subtract immediate from accumulator with borrow` <br> `Increment register or memory by 1` <br> `Increment register pair by 1` <br> `Decrement register or memory by 1` <br> `Decrement register pair by 1` <br> `Decimal adjust accumulator`|
 | :---        |    :---   |
 
 ***
 <h3>:sparkle:CONTROL INSTRUCTIONS</h3>
 
-|             |           |
+| `NOP` <br >`HLT` <br> `DI` <br> `EI` <br> `RIM` <br> `SIM` | `No operation` <br >`Halt` <br> `Disable interrupts` <br> `Enable interrupts` <br> `Read interrupt mask` <br> `Set interrupt mask` |
 | :---        |    :---   |
 
 ***
