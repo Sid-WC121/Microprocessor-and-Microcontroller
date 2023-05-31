@@ -9,5 +9,5 @@
 <h2>Topics:</h2>
 <p align="right">Completed - :white_check_mark: <br> In progress - :x: </p>
 
-- [8085 Microprocessor](./assembly/ASSEMBLY.md) :x:
+- [8085 Microprocessor](./8085/8085.md) :x:
 - [8085 Assembly](./assembly/ASSEMBLY.md) :white_check_mark:
